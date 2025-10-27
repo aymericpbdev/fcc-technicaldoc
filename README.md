@@ -1,4 +1,6 @@
-# fcc-technicaldoc
+# 3rd project for FreeCodeCamp - Certification: Responsive Web Design
+## fcc-technicaldoc
+### DEMO: https://aymericpbdev.github.io/fcc-technicaldoc/
 
 1. You can see a main element with a corresponding id="main-doc", which contains the page's main content (technical documentation)
 2. Within the #main-doc element, you can see several section elements, each with a class of main-section. There should be a minimum of five
